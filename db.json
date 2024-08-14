@@ -1,0 +1,102 @@
+{
+ "homeuser": [
+    {
+      "id": "100021",
+      "name": "个人中心",
+      "router": "/",
+      "thumb": "https://dimtown.com/images/my.svg"
+    },
+    {
+      "id": "100022",
+      "name": "打卡",
+      "router": "/",
+      "thumb": "https://dimtown.com/images/daka.svg"
+    },
+    {
+      "id": "100023",
+      "name": "投稿",
+      "router": "/",
+      "thumb": "https://dimtown.com/images/zuopin.svg"
+    },
+    {
+      "id": "100024",
+      "name": "大会员",
+      "router": "/",
+      "thumb": "https://dimtown.com/images/vip.svg"
+    },
+    {
+      "id": "100025",
+      "name": "我的提醒",
+      "router": "/",
+      "thumb": "https://dimtown.com/images/notice.svg"
+    },
+    {
+      "id": "100026",
+      "name": "我的钱包",
+      "router": "/",
+      "thumb": "https://dimtown.com/images/qianbao.svg"
+    },
+    {
+      "id": "100027",
+      "name": "个人资料",
+      "router": "/",
+      "thumb": "https://dimtown.com/images/ziliao.svg"
+    }
+  ],
+  "mobieuser": [
+    {
+      "id": "100028",
+      "name": "我的主页",
+      "router": "/",
+      "thumb": "https://dimtown.com/images/my.svg"
+    },
+    {
+      "id": "100029",
+      "name": "作品管理",
+      "router": "/",
+      "thumb": "https://dimtown.com/images/zuopin.svg"
+    },
+    {
+      "id": "100030",
+      "name": "我的喜欢",
+      "router": "/",
+      "thumb": "https://dimtown.com/images/xihuan.svg"
+    },
+    {
+      "id": "100031",
+      "name": "我的提醒",
+      "router": "/",
+      "thumb": "https://dimtown.com/images/notice.svg"
+    },
+    {
+      "id": "100032",
+      "name": "浏览记录",
+      "router": "/",
+      "thumb": "https://dimtown.com/images/jilu.svg"
+    },
+    {
+      "id": "100033",
+      "name": "我的钱包",
+      "router": "/",
+      "thumb": "https://dimtown.com/images/qianbao.svg"
+    },
+    {
+      "id": "100034",
+      "name": "大会员",
+      "router": "/",
+      "thumb": "https://dimtown.com/images/vip.svg"
+    },
+    {
+      "id": "100035",
+      "name": "我的订单",
+      "router": "/",
+      "thumb": "https://dimtown.com/images/dingdan.svg"
+    },
+    {
+      "id": "100036",
+      "name": "资料设置",
+      "router": "/",
+      "thumb": "https://dimtown.com/images/ziliao.svg"
+    }
+  ]
+}
