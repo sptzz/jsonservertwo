@@ -1,48 +1,4 @@
 {
- "homeuser": [
-    {
-      "id": "100021",
-      "name": "个人中心",
-      "router": "/",
-      "thumb": "https://dimtown.com/images/my.svg"
-    },
-    {
-      "id": "100022",
-      "name": "打卡",
-      "router": "/",
-      "thumb": "https://dimtown.com/images/daka.svg"
-    },
-    {
-      "id": "100023",
-      "name": "投稿",
-      "router": "/",
-      "thumb": "https://dimtown.com/images/zuopin.svg"
-    },
-    {
-      "id": "100024",
-      "name": "大会员",
-      "router": "/",
-      "thumb": "https://dimtown.com/images/vip.svg"
-    },
-    {
-      "id": "100025",
-      "name": "我的提醒",
-      "router": "/",
-      "thumb": "https://dimtown.com/images/notice.svg"
-    },
-    {
-      "id": "100026",
-      "name": "我的钱包",
-      "router": "/",
-      "thumb": "https://dimtown.com/images/qianbao.svg"
-    },
-    {
-      "id": "100027",
-      "name": "个人资料",
-      "router": "/",
-      "thumb": "https://dimtown.com/images/ziliao.svg"
-    }
-  ],
   "mobieuser": [
     {
       "id": "100028",
